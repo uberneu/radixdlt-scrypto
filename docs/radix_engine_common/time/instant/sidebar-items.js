@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CAP"],"enum":["TimeComparisonOperator"],"struct":["Instant"]};

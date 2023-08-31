@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"macro":["as_read_only"],"struct":["Kernel","KernelBoot","KernelHandler","KernelReadOnly"]};

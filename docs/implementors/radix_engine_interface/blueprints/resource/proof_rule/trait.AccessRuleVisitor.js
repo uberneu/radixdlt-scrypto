@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"radix_engine":[["impl <a class=\"trait\" href=\"radix_engine/types/trait.AccessRuleVisitor.html\" title=\"trait radix_engine::types::AccessRuleVisitor\">AccessRuleVisitor</a> for <a class=\"struct\" href=\"radix_engine/system/attached_modules/role_assignment/package/struct.AccessRuleVerifier.html\" title=\"struct radix_engine::system::attached_modules::role_assignment::package::AccessRuleVerifier\">AccessRuleVerifier</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

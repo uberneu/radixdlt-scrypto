@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CAP"],"enum":["GlobalCaller","ParseNonFungibleGlobalIdError"],"struct":["NonFungibleGlobalId"],"trait":["FromPublicKey"]};

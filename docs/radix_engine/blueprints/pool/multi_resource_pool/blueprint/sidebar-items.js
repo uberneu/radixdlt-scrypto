@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CAP","MULTI_RESOURCE_POOL_BLUEPRINT_IDENT"],"mod":["multi_resource_pool_models"],"struct":["MultiResourcePoolBlueprint","ReserveResourceInformation"],"type":["MultiResourcePoolStateV1"]};

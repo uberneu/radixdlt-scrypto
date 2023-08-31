@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CAP"],"enum":["SchemaValidationMeta","TypeCheckError"],"struct":["BlueprintTypeTarget","KVStoreTypeTarget","SystemMapper"]};

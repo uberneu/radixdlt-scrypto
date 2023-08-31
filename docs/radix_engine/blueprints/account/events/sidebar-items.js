@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CAP"],"enum":["DepositEvent","RejectedDepositEvent","WithdrawEvent"],"struct":["AddAuthorizedDepositorEvent","RemoveAuthorizedDepositorEvent","RemoveResourcePreferenceEvent","SetDefaultDepositRuleEvent","SetResourcePreferenceEvent"]};

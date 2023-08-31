@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CAP"],"enum":["AuthError","AuthorityListAuthorizationResult","AuthorizationCheckResult","FailedAccessRules","ResolvedPermission"],"struct":["AuthModule","Unauthorized"]};

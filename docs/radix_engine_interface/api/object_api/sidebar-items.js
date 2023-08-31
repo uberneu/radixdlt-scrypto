@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["MAIN_DISCRIMINANT","METADATA_DISCRIMINANT","ROLE_ASSIGNMENT_DISCRIMINANT","ROYALTY_DISCRIMINANT"],"enum":["AttachedModuleId","ModuleId"],"struct":["AttachedModuleIdIter","FieldValue","GenericArgs","KVEntry","ModuleIdIter"],"trait":["ClientObjectApi"],"type":["ObjectModuleId"]};

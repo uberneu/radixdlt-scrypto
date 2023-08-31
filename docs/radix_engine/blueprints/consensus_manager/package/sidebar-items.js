@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CAP","VALIDATOR_ROLE"],"struct":["ConsensusManagerNativePackage"]};

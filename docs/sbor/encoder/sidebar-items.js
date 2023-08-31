@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CAP"],"enum":["EncodeError"],"struct":["VecEncoder"],"trait":["Encoder"]};

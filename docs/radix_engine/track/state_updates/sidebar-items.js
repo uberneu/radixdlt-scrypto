@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CAP"],"enum":["BatchPartitionStateUpdate","NodeStateUpdates","PartitionStateUpdates","ReadOnly","TrackedSubstateValue","Write"],"fn":["to_state_updates"],"struct":["IterationCountedIter","RuntimeSubstate","StateUpdates","TrackedNode","TrackedPartition","TrackedSubstate"]};

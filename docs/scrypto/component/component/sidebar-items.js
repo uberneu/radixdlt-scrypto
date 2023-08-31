@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CAP"],"enum":["ComponentCastError"],"struct":["AnyComponent","Blueprint","Global","Globalizing","MetadataMethods","Owned"],"trait":["ComponentState","FnMapping","HasMethods","HasStub","HasTypeInfo","MethodMapping","TypeCheckable"]};

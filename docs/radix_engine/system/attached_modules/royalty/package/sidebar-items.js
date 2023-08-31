@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CAP"],"enum":["ComponentRoyaltyError"],"mod":["component_royalty_models"],"struct":["ComponentRoyaltyBlueprint","RoyaltyNativePackage","RoyaltyUtil"],"type":["ComponentRoyaltyAccumulatorV1","ComponentRoyaltyMethodAmountV1"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CAP","TWO_RESOURCE_POOL_BLUEPRINT_IDENT"],"mod":["two_resource_pool_models"],"struct":["ReserveResourceInformation","TwoResourcePoolBlueprint"],"type":["TwoResourcePoolStateV1"]};

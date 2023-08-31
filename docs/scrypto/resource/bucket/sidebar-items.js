@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CAP"],"trait":["ScryptoBucket","ScryptoFungibleBucket","ScryptoNonFungibleBucket"]};

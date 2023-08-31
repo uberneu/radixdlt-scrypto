@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CAP"],"enum":["TransactionProcessorError"],"fn":["handle_invocation"],"struct":["TransactionProcessor","TransactionProcessorBlueprint","TransactionProcessorRunInput","TransactionProcessorRunInputEfficientEncodable","TransactionProcessorWithApi"]};

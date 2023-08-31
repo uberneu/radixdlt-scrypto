@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CAP"],"enum":["MetadataError","MetadataValidationError"],"fn":["validate_metadata_value"],"mod":["metadata_models"],"struct":["MetadataNativePackage"],"type":["MetadataEntryV1"]};

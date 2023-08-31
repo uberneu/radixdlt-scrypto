@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CAP"],"enum":["NonFungibleVaultError"],"mod":["non_fungible_vault_models"],"struct":["NonFungibleVaultBlueprint"],"type":["NonFungibleVaultBalanceV1","NonFungibleVaultFreezeStatusV1","NonFungibleVaultLockedResourceV1","NonFungibleVaultNonFungibleV1"]};

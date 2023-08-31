@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CAP"],"enum":["DecodeError"],"struct":["VecDecoder"],"trait":["BorrowingDecoder","Decoder"]};
