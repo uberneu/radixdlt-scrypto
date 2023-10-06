@@ -42,7 +42,7 @@ env:
 jobs:
   fuzz_afl:
     name: Fuzz ${{ github.event.inputs.fuzz_target }} (AFL)
-    runs-on: fuzzing
+    runs-on: gh-ephemeral-runner
     # set timeout to 7days
     timeout-minutes: 10080
 
