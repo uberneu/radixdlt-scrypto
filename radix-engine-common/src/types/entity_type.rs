@@ -53,7 +53,7 @@ pub enum EntityType {
     /// A global native pool entity (197 in decimal). Gives Bech32 prefix: `c` followed by one of `5`, `4`, `k` or `h`.
     GlobalTwoResourcePool = 0b11000101, //----------- 11000 => c, 101xx => 54kh (101 = pool)
 
-    /// A global native pool entity (197 in decimal). Gives Bech32 prefix: `c` followed by one of `c`, `e`, `6` or `m`.
+    /// A global native pool entity (198 in decimal). Gives Bech32 prefix: `c` followed by one of `c`, `e`, `6` or `m`.
     GlobalMultiResourcePool = 0b11000110, //--------- 11000 => c, 110xx => ce6m (101 = pool)
 
     //=========================================================================
